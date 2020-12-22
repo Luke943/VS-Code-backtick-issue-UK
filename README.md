@@ -1,4 +1,4 @@
-# VS-Code-backtick-UK-keyboard
+# VS-Code-backtick-issue-UK-keyboard
 
 Keybinding to toggle between code file and terminal (with terminal staying visible) in VS Code on a UK keyboard.
 
